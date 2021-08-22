@@ -1,0 +1,42 @@
+body{
+  color: #66BFBF;
+  background-color: #C7F2E3;
+  margin: 0;
+  text-align: center;
+  font-family: 'merriweather' , serif;
+}
+.naik{
+  border-radius: 100%;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+h1{
+  color: #66BFBF;
+  font-family: 'sacramento' , cursive;
+}
+.top{
+  background-color: #C7F2E3;
+  position: relative;
+  padding-top: 120px
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+.skills{
+  border-radius: 100%;
+}
+hr{
+    border-style: none;
+    border-top-style:  dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%
+}
